@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/repository-name', // Replace 'repository-name' with your GitHub repository name
+  basePath: '/Travel_website_2.0', // Replace 'repository-name' with your GitHub repository name
 };
 
 export default nextConfig;
