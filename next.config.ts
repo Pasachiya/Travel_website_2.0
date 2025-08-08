@@ -4,8 +4,9 @@ const nextConfig: NextConfig = {
   output: 'export',
   trailingSlash: true,
   images: {
-    unoptimized: true
-  }
+    unoptimized: true,
+  },
+  basePath: '/repository-name', // Replace 'repository-name' with your GitHub repository name
 };
 
 export default nextConfig;
