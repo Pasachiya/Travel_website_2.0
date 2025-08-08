@@ -22,19 +22,19 @@ const destinations = [
   {
     name: "Ella",
     location: "Hill Country",
-    image: "/images/ella.jpg",
+    image: "/Travel_website_2.0/images/ella.jpg",
     description: "Misty mountains and tea gardens"
   },
   {
     name: "Sigiriya",
     location: "Cultural Triangle",
-    image: "/images/sigiriya.jpeg",
+    image: "/Travel_website_2.0/images/sigiriya.jpeg",
     description: "Ancient rock fortress"
   },
   {
     name: "Galle",
     location: "Southern Coast",
-    image: "/images/galle.jpg",
+    image: "/Travel_website_2.0/images/galle.jpg",
     description: "Colonial fort by the sea"
   }
 ];
@@ -157,7 +157,7 @@ const SriLankaTravelLanding = () => {
         >
           <div className="absolute inset-0">
             <Image
-              src="/images/hero-tea-plantation.jpg"
+              src="/Travel_website_2.0/images/hero-tea-plantation.jpg"
               alt="Sri Lanka Tea Plantation"
               layout="fill"
               objectFit="cover"
@@ -192,7 +192,7 @@ const SriLankaTravelLanding = () => {
         >
           <div className="absolute inset-0">
             <Image
-              src="/images/ella.jpg"
+              src="/Travel_website_2.0/images/ella.jpg"
               alt="Discover Sri Lanka"
               layout="fill"
               objectFit="cover"
@@ -219,7 +219,7 @@ const SriLankaTravelLanding = () => {
         >
           <div className="absolute inset-0">
             <Image
-              src="/images/sigiriya.jpeg"
+              src="/Travel_website_2.0/images/sigiriya.jpeg"
               alt="Destinations in Sri Lanka"
               layout="fill"
               objectFit="cover"
@@ -259,7 +259,7 @@ const SriLankaTravelLanding = () => {
         >
           <div className="absolute inset-0">
             <Image
-              src="/images/experiences-elephant.jpg"
+              src="/Travel_website_2.0/images/experiences-elephant.jpg"
               alt="Experiences in Sri Lanka"
               layout="fill"
               objectFit="cover"
@@ -292,7 +292,7 @@ const SriLankaTravelLanding = () => {
         >
           <div className="absolute inset-0">
             <Image
-              src="/images/journey-train.jpg"
+              src="/Travel_website_2.0/images/journey-train.jpg"
               alt="Journey through Sri Lanka"
               layout="fill"
               objectFit="cover"
